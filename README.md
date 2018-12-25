@@ -13,5 +13,6 @@ Allows for up to 16 through hole N channel mosfets. Only tested up to 8.
 
 Driven by the allegro A4940.
 
-Work in progress. 
+Tested but much more to do 
 
+video of it in action: https://www.youtube.com/watch?v=BzIux2-qr-M
